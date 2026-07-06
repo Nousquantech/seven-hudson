@@ -1,7 +1,14 @@
 # Seven Hudson
 
-A small toolkit for value-investing analysis: company valuation, stock screening,
-and portfolio performance tracking. Built with Python.
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+**A Python toolkit for value-investing analysis** — company valuation (DCF, P/E, P/B),
+multi-stock screening, and portfolio performance tracking.
+
+Built and actively used to manage my own investment portfolio, Seven Hudson, which
+returned **19.95%** vs. the S&P 500's 9.98% over its first tracked 6 months (see example below).
 
 This repo serves two purposes:
 1. Tracking and analyzing my own investment portfolio ("Seven Hudson").
